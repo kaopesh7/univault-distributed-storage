@@ -13,7 +13,7 @@
 | Mbaliyethu B Ncube | N02421972V | Mbaliyethu05 |  Present findings |
 | Malvin Makiwa| n02654040x | Malvin45 | Build |
  | Tafadzwa Chikuvire| N02651103C | tafadzwachikuvireg| Research|
-| Member 11| To be filled | To be filled | To be filled |
+| Kaopesh Chikwature | N02651006M | kaopesh7 | Research|
 | Member 12| To be filled | To be filled | To be filled |
 | Member 13| To be filled | To be filled |  To be filled|
 | Member 14| To be filled | To be filled | To be filled |
