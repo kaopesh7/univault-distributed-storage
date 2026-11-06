@@ -10,7 +10,7 @@
 | Member 4 | N02655625D | Julius29| Build |
 | Member 5 | To be filled | To be filled | To be filled |
 | Member 6 | n02640892x |  n02640892x | Presenter |
-| Member 7 | To be filled | To be filled | To be filled |
+| Member 7 | N02651006M | kaopesh7 | Researcher |
 | Member 8 | To be filled | To be filled | To be filled |
 | Member 10| To be filled | To be filled | To be filled |
 | Member 11| To be filled | To be filled | To be filled |
